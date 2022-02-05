@@ -1,11 +1,11 @@
+body {
+    background-color: rgb(210, 233, 245);
+}
+
 * {
     padding: 0;
     margin: 0;
     font-family: 'Kumbh Sans', sans-serif;
-}
-
-body {
-    background-color: rgb(210, 233, 245);
 }
 
 div.container {
